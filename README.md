@@ -15,6 +15,7 @@ In this case there are 2 filenames:
 a. For Naive backtracking algorithm: filename will be naivebacktrackingsolver.py
 
 b. For smart backtracking algorithm: filename will be smartbacktrackingsolver.py
+
 **one new line** should be provided after the input puzzle so that the program understands that complete input is considered.
 
 
