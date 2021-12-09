@@ -11,7 +11,9 @@ I have considered the sample inputs from the link: [http://www.websodoku.com](ht
             python <python_filename>
             
 In this case there are 2 filenames:
+
 a. For Naive backtracking algorithm: filename will be naivebacktrackingsolver.py
+
 b. For smart backtracking algorithm: filename will be smartbacktrackingsolver.py
 **one new line** should be provided after the input puzzle so that the program understands that complete input is considered.
 
@@ -31,7 +33,7 @@ The smart backtracking algorithm performed way better than the naive backtrackin
 
 ### Results and Analysis:
 
-The runtime of Naive backtracking algorithm is more than double in most of the cases when compared to the smart backtracking algorithm.The run times of Naive and smart backtracking algorithms is as follows:
+The runtime of Naive backtracking algorithm is more than double in most of the cases when compared to the smart backtracking algorithm. The run times of Naive and smart backtracking algorithms is as follows:
 
 |Type of puzzle    |Naive Backtracking Algorithm|Smart Backtracking Algorithm|
 |------------------|----------------------------|----------------------------|
