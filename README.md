@@ -40,6 +40,7 @@ The runtime of Naive backtracking algorithm is more than double in most of the c
 |Medium puzzle     |          0.0088            |          0.0031            |
 |Hard puzzle       |          0.0521            |          0.0033            |
 |Evil puzzle       |          0.1571            |          0.0087            |
+
 I have considered 2 puzzles but have taken only 1 puzzle in each category(Easy, Medium, Hard, Evil). 
 
 There are few observations when both Naive and smart backtracking algorithms are run on easy, medium, hard and evil puzzles. The number of backtracking steps for smart backtracking is less for most of the puzzles and also run time of the smart backtracking algorithm is less when compared to the Naive backtracking algorithm. Both Naive and smart backtracking algorithms work fine for both the programs. So implementing minimum remaining values (MRV) and Forward checking heuristics has significantly improved the performance of Naive backtracking algorithm.
