@@ -33,7 +33,7 @@ The smart backtracking algorithm performed way better than the naive backtrackin
 
 I have considered 2 puzzles but have taken only 1 puzzle in each category. The runtime of Naive backtracking algorithm is more than double in most of the cases when compared to the smart backtracking algorithm.The run times of Naive and smart backtracking algorithms is as follows:
 
-|**Type of puzzle  |Naive Backtracking Algorithm|Smart Backtracking Algorithm|
+|Type of puzzle    |Naive Backtracking Algorithm|Smart Backtracking Algorithm|
 |------------------|----------------------------|----------------------------|
 |Professor's puzzle|          0.0041            |          0.0044            |
 |------------------|----------------------------|----------------------------|
